@@ -4,7 +4,7 @@ It represents a heterogeneous collection of values.
 */
 
 // Create and initialise tuples
-var tuple1 = [10,"Marvellous",3.14];
+var tuple1 = [10,"Fergusson",3.14];
 
 // Accessing elements of tuples
 console.log(tuple1[0]); 
@@ -13,7 +13,7 @@ console.log(tuple1[2]);
 console.log("Length of tuple : "+tuple1.length);
  
 // Insert element into tuples
-tuple1.push("Infosystems");
+tuple1.push("College");
 console.log(tuple1[3]);
 console.log("Length of tuple after push : "+tuple1.length);
 
