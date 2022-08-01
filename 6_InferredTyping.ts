@@ -6,7 +6,7 @@ TypeScript will find the first usage of the variable within the code, determine 
 for this variable in the rest of your code block.
 */
 
-var str ="Marvellous Infosystems"; // data type inferred as String
+var str ="Fergusson College"; // data type inferred as String
 console.log("String contains : "+str);
 
 var no = 2;    // data type inferred as  number 
