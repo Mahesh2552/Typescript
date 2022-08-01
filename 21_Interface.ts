@@ -1,10 +1,4 @@
- /*
-Interface : 
-    Interfaces define properties, methods, and events, which are the members of the interface. 
-    Interfaces contain only the declaration of the members. 
-    It is the responsibility of the deriving class to define the members. 
-    It often helps in providing a standard structure that the deriving classes would follow.
-*/
+
 
 // Declare interface
 interface Student 
@@ -17,9 +11,9 @@ interface Student
  // Implement the above interface
  var obj1:Student = 
  { 
-    name:"Piyush Khairnar",
-    college:"Pune University", 
-    fun: ():string =>{return "Welcome to Marvellous Infosystems"} 
+    name:"Mahesh Dubal",
+    college:"Fergusson College Pune", 
+    fun: ():string =>{return "Welcome to Fergusson College"} 
  }
  
  // Display contents of object
@@ -33,7 +27,7 @@ interface Student
  { 
     name:"Rahul Joshi",
     college:"Modern", 
-    fun: ():string =>{return "Marvellous : Admission Confirmed"} 
+    fun: ():string =>{return "Admission Confirmed"} 
  } 
    
   // Display contents of object
