@@ -1,4 +1,4 @@
-import { Employee } from "./23_MarvellousModule";
-let empObj = new Employee("Piyush", 11);
+import { Employee } from "./23_Module";
+let empObj = new Employee("Mahesh", 11);
 
 empObj.displayEmployee();
