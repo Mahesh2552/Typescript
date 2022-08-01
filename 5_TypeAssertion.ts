@@ -1,6 +1,6 @@
 /*
 TypeScript allows changing a variable from one type to another. TypeScript refers to this process as Type Assertion.
-Type Assertion is Compile ime process.
+Type Assertion is Compile time process.
 */
 
 var no:string = "101"                           // no is of type string
