@@ -16,7 +16,7 @@ Undefined	    undefined	Denotes value given to all uninitialized variables
 The any data type is the super type of all types in TypeScript. It denotes a dynamic type.
 */
 
-var Institute:string = "Marvellous Infosystems";
+var Institute:string = "Fergusson College";
 var StudentsCnt:number = 1500;
 console.log("Institute name :"+Institute) 
 console.log("Students Count: "+StudentsCnt) 
