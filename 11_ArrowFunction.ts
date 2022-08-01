@@ -1,8 +1,3 @@
-/*
-Arrow Functions / Lambda Functions
-Lambda refers to anonymous functions in programming. Lambda functions are a concise mechanism to represent anonymous functions. 
-These functions are also called as Arrow functions.
-*/
 
 // Lamda expression
 // It is an anonymous function expression that points to a single line of code.
