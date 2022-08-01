@@ -16,7 +16,7 @@ for(var i = 0; i < arr3.length; i++)
 }
 
 // Createing array of strings
-var batches:string[] = new Array("PPA","UNIX","LB","ANGULAR"); 
+var batches:string[] = new Array("LINUX","UNIX","ANDROID","ANGULAR"); 
 
 for(var i = 0;i<batches.length;i++) 
 { 
