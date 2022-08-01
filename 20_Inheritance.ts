@@ -1,10 +1,4 @@
-/*
-    Inheritance : Reusablity
-    typescript supports single level, multiple, multlevel inheritance.
-    Access specifiers are public, private,protected.
-    Default access specifier is public.
-*/
- 
+
 // Declare class Student
 class Student 
 { 
@@ -45,7 +39,7 @@ class Student
  }
 
  // Create object of above class
- var obj1 = new Employee(11,"Piyush Khairnar");
+ var obj1 = new Employee(11,"Mahesh Dubal");
  obj1.DisplayS();
  obj1.DisplayE();
 
