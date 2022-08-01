@@ -1,7 +1,4 @@
-/*
-Default Parameters
-Function parameters can also be assigned values by default. However, such parameters can also be explicitly passed values.
-*/
+
 
 function percentage(marks:number,outof:number = 300) 
 { 
