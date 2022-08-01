@@ -1,10 +1,6 @@
-/*
-Optional Parameters
-Optional parameters can be used when arguments need not be compulsorily passed for a function’s execution. 
-A parameter can be marked optional by appending a question mark to its name.
-*/
 
-function Area(radious:number,PI?:number):number 
+
+function Area(radius:number,PI?:number):number 
 {  
     var area:number;
 
@@ -12,7 +8,7 @@ function Area(radious:number,PI?:number):number
     {
         PI = 3.14;
     }
-    area = radious*radious*PI;
+    area = radius*radius*PI;
 
     return area; 
  }
