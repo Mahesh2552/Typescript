@@ -1,6 +1,6 @@
 // Passing array to the function
 
-var batches:string[] = new Array("PPA","UNIX","LB","ANGULAR"); 
+var batches:string[] = new Array("LSP","UNIX","GO","ANGULAR"); 
 
 function fun(arr:string[]) 
 {
